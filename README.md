@@ -1,3 +1,7 @@
+<a href="https://app.daily.dev/Toothless">
+<img src="https://api.daily.dev/devcards/ac67f86043bf4c908dfc26007842a4da.png?r=w05" width="400" alt="Yovindo Ardana's Dev Card"/>
+</a>
+
 - 👋 Hi, I’m @yovindoardana
 - 👀 I’m interested to be a Front-End Developer
 - 🌱 I’m currently learning about HTML, CSS, and Javascript.
